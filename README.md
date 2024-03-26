@@ -9,4 +9,4 @@ Each project is written on Jupyter notebook, complete with detailed documentatio
 - **Programming Languages**: Python
 - **Libraries/Frameworks**: NumPy, SciPy, Matplotlib
 - **Tools**: Git, Jupyter Notebooks
-- **Numerical Methods**: Finite Element Analysis, Monte Carlo Simulations, Differential Equation Solving, FFT, golden ratio search, image processing
+- **Numerical Methods**: Finite Element Analysis, Monte Carlo Simulations, Differential Equation Solving, FFT, golden ratio search, image processing and others
